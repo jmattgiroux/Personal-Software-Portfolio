@@ -28,7 +28,7 @@ Then, you can run the program through the terminal with the command
 
 Here is a screenshot of all of that:
 ![screenshot of hello world program]
-(/HelloWorldScreenshot.png)
+(https://github.com/jmattgiroux/expert-octo-garbanzo/blob/master/W01_Prove/HelloWorldScreenshot.png)
 
 Here are some useful sites I've found for programming:
 
