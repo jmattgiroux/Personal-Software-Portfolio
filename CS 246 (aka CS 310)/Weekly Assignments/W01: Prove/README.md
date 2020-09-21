@@ -11,7 +11,7 @@ The compilers for this environment were  installed using the command:
 
 sudo apt-get install build-essential
 
-This program was created using CLion, an IDE created by the company JetBrains.
+This program was created using Visual Studio Code.
 It is programmed in C++, and was compiled in the 
 Linux terminal with the command
 

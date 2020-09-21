@@ -1,3 +1,0 @@
-/home/jared/expert-octo-garbanzo/W01_Prove/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/jared/expert-octo-garbanzo/W01_Prove/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/jared/expert-octo-garbanzo/W01_Prove/cmake-build-debug/CMakeFiles/W01_Prove.dir
