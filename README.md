@@ -19,12 +19,19 @@ Contents:
         (empty)
         
 Environment:
-    
+    This is a description of the environment this repository's code was created in.
+    If someone would like to edit, test and run this repository's code with same
+    environment setup as the developer had, this description should help them.
+   
     This repository's code is created using Ubuntu, on a 64-bit computer.
         To see the specific version of Ubuntu a project was created with, 
         see that project's readme file.
     
     This repository's code is created using VSCode.
+    
+    Git was installed onto this environment using this command:
+    
+        sudo apt install git
     
     The compilers for this environment were installed using this command:
         
