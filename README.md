@@ -1,4 +1,4 @@
-# expert-octo-garbanzo
+# Personal-Software-Portfolio
 
 This is a portfolio containing code created by me, Jared Giroux.
 Its purpose is to showcase the projects contained in this repository.
